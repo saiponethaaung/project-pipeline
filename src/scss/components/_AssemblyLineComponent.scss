@@ -1,0 +1,16 @@
+.assembly-input-con {
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #aaa;
+    .assembly-input-label {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        .assembly-prefixName {
+            margin-right: 10px;
+        }
+        .input-atom-con {
+            max-width: 350px;
+        }
+    }
+}

@@ -1,0 +1,14 @@
+.task-item-molecules {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+    .empty-task {
+        padding: 20px 16px;
+        text-align: center;
+        font-size: 14px;
+        background: #fff;
+    }
+    .task-item {
+        padding: 10px 8px;
+    }
+}
